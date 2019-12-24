@@ -1,6 +1,4 @@
 from twilio.rest import Client
-import firebase_admin
-from firebase_admin import firestore
 import os
 import base64
 
